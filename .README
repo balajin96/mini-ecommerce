@@ -1,6 +1,6 @@
 check point MUST
-nodejs installed
-mongoDB Compass installed
+nodejs installed ->  https://nodejs.org/en/download #below you will see windows installer .msi
+mongoDB Compass installed -> https://www.mongodb.com/products/tools/compass
 
 in command prompt check
 1. node -v 
