@@ -11,6 +11,7 @@ in command prompt check
 1. go to frontend folder then run this command first `npm i` then `npm start`
 
 2. go to backend folder then run this command first `npm i` then `npm start && node seeder.js`
+   if you want to change any image or text must edit in `mini-ecommerce\backend\data\products.json` then run `node seeder.js`
 
 if you want to edit the product to to this folder `mini-ecommerce\backend\data\products.json`
 the change as per your needs.
