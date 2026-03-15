@@ -8,9 +8,9 @@ in command prompt check
 3. mongod --version
 
 #frontend code run command
-1. go to frontend folder then run this command `npm start`
+1. go to frontend folder then run this command first `npm i` then `npm start`
 
-2. go to backend folder then run this command `npm start && node seeder.js`
+2. go to backend folder then run this command first `npm i` then `npm start && node seeder.js`
 
 if you want to edit the product to to this folder `mini-ecommerce\backend\data\products.json`
 the change as per your needs.
